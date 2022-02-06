@@ -1,2 +1,2 @@
 # Microverse
-Learning form Microverse
+Learning form Microverse and Odin
